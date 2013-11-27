@@ -2,6 +2,8 @@
 
 Experimental add-on for openFrameworks, that allows adding of icons and/or text to the Mac OS X statusbar.
 
+![Screenshot](https://raw.github.com/madc/ofxStatusbar/master/ofxaddons_thumbnail.png)!
+
 ## State of the add-on
 
 My knowledge of objective-c is quite limited, therefor not everything is working at the moment and pull requests are highly appreciated. As said before, it is already possible to add an image and / or text to the statusbar. Also an alternative image (=image on hover) can be defined. The 'example-basic' shows the current state of development.
